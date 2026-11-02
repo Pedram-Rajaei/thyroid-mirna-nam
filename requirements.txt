@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+pydeseq2>=0.5
+skrebate
+tensorflow>=2.15
+tf-keras
+neural_additive_models @ git+https://github.com/agarwl/google-research.git#subdirectory=neural_additive_models
+jupyter
